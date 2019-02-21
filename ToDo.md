@@ -1,5 +1,4 @@
 # Cherish's Tasks
-*"The many tasks of Cherish" and "The struggles of Sisyphus" are syllabically matched AND sorta not really kinda rhyme!*
 
 ## Must:
 1. **Finish answering NPS questions for the presentation**
@@ -12,8 +11,7 @@
 * Go through all in-class notebooks and add Markdown cells to format more nicely
 * Rename folders and files for consistency and ease of navigation
   * Date format: MM/DD/YY
-  * Notebook titles should include subject matter, not just the date 
+  * Notebook titles should include subject matter, not just the date
 
 
 *Markdown is hypnotically beautiful*
-*I will choose .md over .txt files for future to-do lists*
